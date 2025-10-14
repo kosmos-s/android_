@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "studyG"
 include(":app")
- 
+include(":w3")
+include(":w4")
+include(":w5")
