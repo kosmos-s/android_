@@ -18,3 +18,5 @@
 -스톱워치 
 
 ## 6주차 수업
+<img width="309" height="699" alt="image" src="https://github.com/user-attachments/assets/511db31c-ae4a-47cc-acbe-f504f72b8a24" />
+-버블버블
