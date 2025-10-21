@@ -4,7 +4,7 @@
 
 ---
 
-## 🗓️ 3주차 — 컴포즈 커피 (Compose Coffee)
+##  3주차 — 컴포즈 커피 (Compose Coffee)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3e06d87d-7de2-4a0c-9bb8-4be5bfa56c87" alt="3주차 이미지" width="250" height="550"/>
@@ -16,13 +16,13 @@
 
 ---
 
-## 🗓️ 4주차 — (작성 예정)
+##  4주차 — (작성 예정)
 
 > 이 주차의 내용은 추후 추가될 예정입니다. ✏️
 
 ---
 
-## 🗓️ 5주차 — 스톱워치 앱
+##  5주차 — 스톱워치 앱
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86ca6cc6-b228-4d22-bf4f-e9e3875c7335" alt="5주차 이미지" width="250" height="550"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🗓️ 6주차 — 버블버블 게임
+##  6주차 — 버블버블 게임
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4d098d86-d5c4-4b91-92a1-c754244102b3" alt="6주차 이미지" width="250" height="550"/>
